@@ -1,0 +1,23 @@
+# Statistical Arbitrage Engine
+# pip install -r requirements.txt
+
+# Data
+yfinance>=0.2.40
+pandas>=2.0.0
+numpy>=1.26.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+pyarrow>=14.0.0
+
+# Statistical modelling
+statsmodels>=0.14.0
+scipy>=1.11.0
+python-dateutil>=2.8.0
+
+# Visualisation + export
+matplotlib>=3.8.0
+openpyxl>=3.1.0
+
+# Notebook
+jupyterlab>=4.0.0
+nbformat>=5.9.0
